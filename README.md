@@ -1,4 +1,4 @@
-Hi i'm dev-ckient tester i'm interested in roblox source code and blockman go source code
+Hi i'm dev-client tester i'm interested in roblox source code and blockman go source code
 
 <!---
 DevClientTester/DevClientTester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
